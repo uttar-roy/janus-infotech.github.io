@@ -1,0 +1,27 @@
+.team{
+	background-color:grey;
+	background-image:url(team.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+.team .row{
+	background-color:rgba(172, 172, 172, 0.7);
+	justify-content:center;
+}
+.team-col .card{
+     background-color:rgba(255, 255, 255, 0.8);
+	 color:black;
+}
+.team h1{
+	justify-content:center;
+	text-align:center;
+	color:black;
+}
+
+.team-head{
+	text-align:center;
+}
+.team-col .card .card-body{
+	text-align:center;
+}
